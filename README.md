@@ -40,6 +40,15 @@ The following data preparation steps were performed in **Power Query Editor**:
 
 These steps ensured the dataset was clean, structured, and ready for analysis.
 
+## Screenshots
+
+### Power Query – Data Cleaning
+![Column Split](ColumnSplits_ByDelimeter.jpeg)
+![filtering_columns](filtering_columns.jpeg)
+
+### Dashboard View
+![Dashboard Overview](Final_dashboard.jpeg)
+
 ## Dashboard Features
 - Country-wise distribution of survey takers
 - Average salary by job title
